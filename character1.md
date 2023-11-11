@@ -51,9 +51,11 @@ Entropy Control - 2
 # Psionics
 
 Psionics  - 2
+
 *The creature has learned how to use it's mind and mental energy to penetrate the minds of other living beings.*
 
 Minion Control - 2
+
 *The creature has learned how to dominate the minds of others using it's psionic ability. This is most effective on shards of itself broken off it's body.*
 
 # Knowledge
