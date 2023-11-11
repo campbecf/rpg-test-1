@@ -61,6 +61,7 @@ Minion Control - 2
 # Knowledge
 
 Recollection of the Past - 3
+
 *Occasionally receive guidance or hints from the echoes of past entities or energies in your lineage.*
 
 ## Legacies
