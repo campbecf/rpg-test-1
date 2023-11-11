@@ -84,6 +84,8 @@ Webbed feet
 
 Tentacles
 
+Forward facing eyes
+
 ### Perception
 
 Vision (Low Light) (Basic Thermal)
