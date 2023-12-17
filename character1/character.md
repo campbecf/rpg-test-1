@@ -8,6 +8,8 @@ True: (???)
 
 ## Type / Form
 
+![Alt text](staff.png)
+
 Enchantment Crystal (Grade B) (Medium Capacity)
 
 Abyssal Cloud (???) (???) (???)
@@ -15,12 +17,6 @@ Abyssal Cloud (???) (???) (???)
 ## Status
 
 1/6 Wounds
-
-# Relationships and acquaintances 
-
-Elven Wizard Jonathon (Wielder) (Owner)
-
-*The wizard Jonathon is a self taught mage of middling quality. Self taught using used or damages books on magical theory and practical experience. His party (swordsman, archer) saved up enough money to purchase you from a store after your enchantment into the crystal atop a staff.*
 
 # Skills & Abilities
 
