@@ -10,7 +10,7 @@ True: (???)
 
 ![Alt text](staff.png)
 
-Enchantment Crystal (Grade B) (Medium Capacity)
+Enchantment Crystal (Grade B) (High Capacity, fragmented pockets)
 
 Abyssal Cloud (???) (???) (???)
 
@@ -38,15 +38,19 @@ Enchantment - 1 *(-1)*
 
 Energy Harvesting - 1
 
+(Situational dice: +1 for harvesting via psionic links)
+
 *The creature has learned the basics of harvesting ambient energy sources.*
 
 Entropy Control - 2
+
+(Situational dice: +1 for portal research)
 
 *The creature is adapted to the chaotic energies of the Abyssal Shore, reducing negative effects or utilizing them for benefit.*
 
 # Psionics
 
-Psionics  - 2
+Psionics  - 3
 
 *The creature has learned how to use it's mind and mental energy to penetrate the minds of other living beings.*
 
